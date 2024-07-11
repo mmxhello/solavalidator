@@ -14,6 +14,6 @@ npm run dev
 
 # 3. Открой сайт:
 
-http://localhost:5173
+http://localhost:5177
 
 SolaValidator - валидатор блокчейна Solana. Быстрый и простый в использовании.
