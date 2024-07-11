@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import SocialLinksBlock from '/SocialLinks.vue'
+import SocialLinksBlock from '@/SocialLinks.vue'
 </script>
 
 <template>
