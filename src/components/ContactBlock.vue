@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-import SocialLinksBlock from '.@/components/UI/SocialLinks.vue'
+import SocialLinksBlock from '../components/UI/SocialLinks.vue'
 
 </script>
 
