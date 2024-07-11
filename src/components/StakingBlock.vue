@@ -25,7 +25,7 @@ const copyCryptoAddress = () => {
         <div class="crypto-address">
             {{ props.address }}
         </div>
-        <img src="../assets/copy-icon.svg" alt="Copy address icon" class="copy-address-icon" @click="copyCryptoAddress">
+        <img src="assets/copy-icon.svg" alt="Copy address icon" class="copy-address-icon" @click="copyCryptoAddress">
     </div>
     <Transition name="fade">
     <div class="address-copy-info success" v-if="showCopyInfo">
