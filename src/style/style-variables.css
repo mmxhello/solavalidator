@@ -1,0 +1,21 @@
+/* Основные цвета проекта */
+
+:root {
+  --main-color-light-pink: #dfa8ff;
+  --main-color-pink: #B14BED;
+  --main-color-dark-pink: #2e133e;
+  --main-color-light-violet: #d3cbff;
+  --main-color-violet: #7B00AB;
+  --main-color-dark-violet: #221e3a;
+  --main-color-light-grey: #d4d4d4;
+  --main-color-light-grey-opacity: #d4d4d41c;
+  --main-color-grey: #212121;
+  --main-color-grey-opacity: #21212180;
+  --main-color-dark-grey: #171717;
+  --main-color-dark-grey-opacity: #17171780;
+  --main-color-black-grey: #080808;
+  --main-color-black-grey-opacity: #080808bf;
+  --main-color-dark-green: #008000;
+  --main-color-green: #8bc34a;
+  --main-color-light-green: #a2cf6e;
+}
