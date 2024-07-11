@@ -6,10 +6,10 @@
 <!-- Ссылки на соц.сети (без email). Для примера - Павел Дуров -->
   <div class="social-links">
         <a href="https://vk.com/durov" class="social-links-item">
-            <img src="@/assets/vk-logo.svg" alt="VK logo" class="social-links-item-img">
+            <img src="./assets/vk-logo.svg" alt="VK logo" class="social-links-item-img">
         </a>
         <a href="https://t.me/durov" class="social-links-item">
-            <img src="@/assets/telegram-logo.svg" alt="Telegram logo" class="social-links-item-img">
+            <img src="./assets/telegram-logo.svg" alt="Telegram logo" class="social-links-item-img">
         </a>
     </div>
 </template>

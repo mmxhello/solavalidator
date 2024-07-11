@@ -6,7 +6,7 @@ const emits = defineEmits(['changeSection'])
 <template>
   <div class="header">
     <a @click="$emit('changeSection', 'home')" class="logo">
-        <img src="@/assets/solavalidator-logo.svg" alt="SolaValidator logo" class="logo-img">
+        <img src="./assets/solavalidator-logo.svg" alt="SolaValidator logo" class="logo-img">
         <h1 class="logo-text">SolaValidator</h1>
     </a>
     <div class="menu">
