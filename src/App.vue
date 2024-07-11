@@ -1,8 +1,8 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-import MainContent from './components/MainContent.vue'
-import LogoHeader from './components/UI/Header.vue'
-import PageFooter from './components/UI/Footer.vue'
+import MainContent from '/components/MainContent.vue'
+import LogoHeader from '/components/UI/Header.vue'
+import PageFooter from '/components/UI/Footer.vue'
 
 let currentSection = ref('home')
 

@@ -1,10 +1,10 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-import StakingBlock from './StakingBlock.vue'
-import MainPageTitle from './MainPageTitle.vue'
-import InfoBlock from './InfoBlock.vue'
-import ServiceBlock from './ServiceBlock.vue'
-import ContactBlock from './ContactBlock.vue'
+import StakingBlock from '/StakingBlock.vue'
+import MainPageTitle from '/MainPageTitle.vue'
+import InfoBlock from '/InfoBlock.vue'
+import ServiceBlock from '/ServiceBlock.vue'
+import ContactBlock from '/ContactBlock.vue'
 
 const props = defineProps({
   currentSection: String
