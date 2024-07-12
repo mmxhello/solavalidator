@@ -61,7 +61,7 @@ server {
 
         index index.html index.htm;
 
-        server_name solaidator.example.com;
+        server_name solavalidator.example.com;
         location / {
                 proxy_pass http://localhost:5177/;
         }
