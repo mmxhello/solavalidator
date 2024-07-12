@@ -52,3 +52,18 @@ node server.js
 ## 4. Открой сайт:
 
 http://localhost:5177
+
+# Пример конфига Nginx для деплоя:
+
+```nginx
+server {
+        root /home/user/sites/solavalidator/dist;
+
+        index index.html index.htm;
+
+        server_name solaidator.example.com;
+        location / {
+                proxy_pass http://localhost:5177/;
+        }
+}
+```
