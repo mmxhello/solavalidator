@@ -74,7 +74,8 @@ const copyCryptoAddress = () => {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: fit-content;
+    width: 100%;
+    max-width: 100%;
     padding: 6px 10px;
     gap: 3px;
     box-sizing: border-box;
@@ -82,7 +83,6 @@ const copyCryptoAddress = () => {
     border: none;
     border-radius: 10px;
     color: #ffffffc8;
-    font-size: 0.8rem;
 }
 
 .crypto-address {
@@ -108,8 +108,7 @@ const copyCryptoAddress = () => {
     }
 
     .crypto-address {
-        font-size: 0.7rem;
-        max-width: 90%;
+        font-size: 0.65rem;
     }
 }
 
