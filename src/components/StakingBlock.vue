@@ -107,6 +107,10 @@ const copyCryptoAddress = () => {
         width: 95%;
     }
 
+    .crypto-address-container {
+        padding: 3px 5px;
+    }
+
     .crypto-address {
         font-size: 0.65rem;
     }
