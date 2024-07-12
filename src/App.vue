@@ -19,6 +19,9 @@ function changeSection(section: string) {
 </template>
 
 <style>
+* {
+  -webkit-tap-highlight-color: transparent;
+}
 #app {
   height: 100%;
   width: 100vw;
