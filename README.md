@@ -1,5 +1,7 @@
 # SolaValidator
 
+https://solavalidator.mixservices.ru
+
 SolaValidator - валидатор блокчейна Solana. Быстрый и простый в использовании.
 
 На сайте есть 3 раздела: 
