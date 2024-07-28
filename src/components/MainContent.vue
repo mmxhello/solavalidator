@@ -23,7 +23,7 @@ let currentSection = ref('home')
     </div>
 
     <!-- Рандомный адрес с интернетов -->
-    <StakingBlock :address="'B8m79Xf3kp19suGMJkfXZDDHCmMP5vWHuYAdirtswEzD'"/>
+    <StakingBlock :address="'крипто-адрес'"/>
   </main>
   <!-- Блоки в разделах "Услуги" и "О нас" пронумерованы по порядку -->
   <main class="services-container" v-else-if="props.currentSection === 'services'">
